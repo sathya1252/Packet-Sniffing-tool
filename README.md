@@ -23,7 +23,7 @@ Usage:
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/packet-sniffing-tool.git
+    git clone https://github.com/sathya1252/packet-sniffing-tool.git
 
 Make sure you have Python3 installed.
 
